@@ -39,3 +39,4 @@ php artisan test
 ## Catatan
 - Pastikan storage link sudah dibuat: `php artisan storage:link`.
 - Atur `APP_URL` dan `ASSET_URL` di `.env` sesuai domain yang dipakai.
+- by muyo 
